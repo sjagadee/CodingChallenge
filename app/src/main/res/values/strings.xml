@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">"Coding Challenge "</string>
+    <string name="my_name">"Srinivas Jagadeesh"</string>
+    <string name="countries">"Countries"</string>
+    <string name="capital">"Capital:"</string>
+    <string name="population">"Population:"</string>
+    <string name="area">"Area:"</string>
+    <string name="region">"Region:"</string>
+    <string name="sub_region">"Sub Region:"</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="header_image">Header Image</string>
+    <string name="about_me_header">"ABOUT ME"</string>
+    <string name="about_me_body">"I am an Enthusiastic Software Developer and has been developing various applications in Java and Android"</string>
+    <string name="education_header">"EDUCATION"</string>
+    <string name="education_body">
+"Illinois Institute of Technology, Chicago
+Masters - Information Technology and Management
+May 2015
+
+Visveswaraya Technological University, Bangalore
+Bachelor of Engineering - Computer Science
+June 2012"</string>
+    <string name="work_header">"PROFESSIONAL EXPERIENCE"</string>
+    <string name="work_body">
+"Pursuit Inc, Chicago
+Software Engineer (Android)
+March 2017 - Present
+
+Redmane Technology, Chicago
+Java Developer
+June 2015 - December 2016
+
+Motorola Mobility, Chicago
+Android Developer/ Python Scripter (Co-op)
+September 2014 - May 2015
+
+Motorola Solution, Schaumburg
+Android Developer (Intern)
+May 2014 - August 2014
+
+Nichepro Technologies
+Android Developer
+July 2012 - July 2013"</string>
+</resources>
